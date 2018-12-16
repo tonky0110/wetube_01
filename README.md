@@ -26,8 +26,8 @@ C: Function that looks for the data
 ## Pages:
 
 - [ ] Home
-- [ ] Join
-- [ ] Login
+- [x] Join
+- [x] Login
 - [x] Search
 - [ ] User Detail
 - [ ] Edit Profile

@@ -7,9 +7,10 @@ express
 middleware
 morgan: logging middleware
 helmet: 보안 middleware
-cookie-parser:
-body-parser:
-
+cookie-parser: cookie를 전달 받아서 사용할 수 잇도록 해주는 미들웨어
+body-parser: 사용자가 웹사이트로 전달하는 정보들을 검사하는 미들웨어
+request정보에서 form이나 json형태로 된 body를 검사.
+Pug: express에서 view를 다루는 방식 중 하나.
 
 export /export default 차이
 import할 때 

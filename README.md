@@ -19,6 +19,13 @@ import할 때
 
 multer: middleware에서 file업로드 시 url을 반환.
 
+
+eslint
+yarn add global eslint
+yarn add eslint, eslint-plugin-react, eslint-plugin-jsx-a11y, eslint-plugin-import, eslint-config-airbnb
+
+eslint --init
+use popular styele 
 MVC
 M: data
 V: how does the data look

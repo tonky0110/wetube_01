@@ -17,6 +17,7 @@ import할 때
   export: import {ex)router} from './router';
   export default: import router from './router';
 
+multer: middleware에서 file업로드 시 url을 반환.
 
 MVC
 M: data

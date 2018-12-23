@@ -4,6 +4,7 @@
   "description": "Cloning Youbute with Vanilla and NodeJS",
   "author": "Donghwan Seo",
   "main": "index.js",
+  "license": "MIT",
   "scripts": {
     "start": "nodemon --exec babel-node init.js --delay 2",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,6 +16,7 @@
     "body-parser": "^1.18.3",
     "cookie-parser": "^1.4.3",
     "dotenv": "^6.2.0",
+    "eslint-config-prettier": "^3.3.0",
     "express": "^4.16.4",
     "global": "^4.3.2",
     "helmet": "^3.15.0",
@@ -25,11 +27,9 @@
   },
   "devDependencies": {
     "eslint": "^5.11.0",
-    "eslint-config-airbnb": "^17.1.0",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-plugin-import": "^2.14.0",
-    "eslint-plugin-jsx-a11y": "^6.1.2",
-    "eslint-plugin-react": "^7.11.1",
+    "eslint-plugin-prettier": "^3.0.0",
     "nodemon": "^1.18.9",
     "prettier": "^1.15.3"
   }
